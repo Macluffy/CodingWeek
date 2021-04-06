@@ -1,0 +1,31 @@
+#bleu{
+    background-color: blue;
+    height:400px;
+    width: 100%;
+}
+#rouge{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin-left:25%
+    
+}
+#ciel{
+    height:700px;
+    background-image:url( "../img/06CLI-LIGHTNING-superJumbo.jpg");
+    background-size:cover;
+   
+   
+
+}
+#simpson{
+    height: 700px;
+    background-image:url( "../img/simpsons.jpg");
+    background-size:cover;
+    
+    background-attachment: fixed;
+}
+body{
+    margin:0%;
+    padding:0%;
+}

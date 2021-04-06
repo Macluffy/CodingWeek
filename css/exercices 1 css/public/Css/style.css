@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(243, 197, 70);
+}
+
+h1 { 
+    color:red;
+    text-align: center;
+}
+span {
+    color:red;
+    text-decoration: underline;
+
+}
+#colorBlue {
+    color:royalblue;
+    text-align:center;
+}
+#engras {
+    font-weight:bold;;
+}

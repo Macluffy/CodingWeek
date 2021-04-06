@@ -1,0 +1,18 @@
+#bordurered{
+    border:solid 2px red;
+    height:600px;
+    width:100% ;
+}#myimage{
+    height:300px;
+    border:solid 10px green;
+    margin: 50px;
+    padding:20px
+}
+#myD{
+    border:solid 2px blue
+
+}
+p {
+    font-weight:bold;;
+    margin:30px
+}

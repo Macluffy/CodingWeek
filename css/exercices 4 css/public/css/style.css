@@ -1,0 +1,47 @@
+#boite{
+    text-align: center;
+}
+.exo1{
+    border-style: dashed;
+    font-size:20px;
+    font-weight: bold;
+}
+
+
+.exo2{ 
+    
+    font-size:20px;
+    font-weight: bold
+
+}
+.exo{
+   
+    font-size:20px;
+    background-color: black;
+    color:white;
+    
+}
+.but{
+
+    background-color: red;
+    border-radius:50%;
+      
+}
+
+.but:hover{
+    background-color: blue;
+    color :white;
+
+}
+.but:active{
+    background-color: blueviolet;
+}
+.p3{
+    
+    border:solid 2px black;
+}
+#but2{
+    padding:30px
+
+}
+
